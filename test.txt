@@ -1,0 +1,698 @@
+[
+{
+"sentence": "I feel ecstatic and privileged.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel like that because for the most part I have accepted that this is a part of my life and that people will never change.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel like that would be rude.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I am being judged.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I am wasting my life.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I can't breathe.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I can't do anything right.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I can't trust anyone.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I could cry all day.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I could explode.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel like I could finally relax.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel like I deserve better.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel like I don't belong anywhere.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I don't deserve this.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I don't fit in.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I don't matter.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I don't know who I am anymore.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I don't want to be here.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I failed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I have no control.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I have no one.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I have to hide.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I have to prove myself.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I just can't cope.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I let everyone down.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I lost my mind.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I messed everything up.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I need a break.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I need to run away.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I ruin everything.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like I'm a burden.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I'm being punished.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I'm breaking.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I'm drowning in work.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I'm falling apart.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel like I'm finally doing something right.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel like I'm going to faint.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm going to fail.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm going to lose it.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm helpless.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm not enough.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I'm not wanted.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I'm on edge.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm stuck.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like I'm trapped.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like I'm worthless.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like people hate me.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like screaming.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel like something bad will happen.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel like the world is against me.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel like this is my fault.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel like this will never end.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel lonely even in a crowd.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel nervous about tomorrow.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel proud of myself today.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel really anxious right now.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel really angry about it.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel really ashamed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel really blessed to have you.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel really calm today.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel really confident.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel really disgusted.",
+"emotion": "Disgust"
+},
+{
+"sentence": "I feel really embarrassed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel really excited.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel really guilty.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel really happy.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel really overwhelmed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel really relieved.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel really sad.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel really scared.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel really stressed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so alone.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so anxious when I'm alone.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel so appreciated.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel so ashamed of myself.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel so bad about what I did.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel so calm and peaceful.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel so confident about this.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel so delighted.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel so down.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so embarrassed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel so empty.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so frustrated.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel so grateful for you.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel so guilty for saying that.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel so happy right now.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel so hopeless.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so irritated.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel so lonely without you.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so loved.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel so overwhelmed with everything.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so pressured.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so proud.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel so relieved.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel so restless.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so scared about this.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel so shocked.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I feel so stressed out.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so thankful.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel so tired and overwhelmed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel so uncomfortable.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel so upset.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel so worthless and useless.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel stunned.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I feel surprised by this.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I feel terrified.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel thankful to have friends.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel this is unfair.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel touched by your kindness.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel uneasy.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel uneasy in new places.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel unloved.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel upset and frustrated.",
+"emotion": "Anger"
+},
+{
+"sentence": "I feel very awkward.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel very blessed.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I feel very calm.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I feel very confident.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel very disappointed.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel very embarrassed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel very excited.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel very guilty.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I feel very happy.",
+"emotion": "Joy"
+},
+{
+"sentence": "I feel very hopeful.",
+"emotion": "Hope / Optimism"
+},
+{
+"sentence": "I feel very nervous.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I feel very overwhelmed with work.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel very proud.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I feel very sad.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I feel very stressed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I feel worried.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I hope things get better.",
+"emotion": "Hope / Optimism"
+},
+{
+"sentence": "I hope everything works out.",
+"emotion": "Hope / Optimism"
+},
+{
+"sentence": "I hope I can do this.",
+"emotion": "Hope / Optimism"
+},
+{
+"sentence": "I hope you know I love you.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I just feel exhausted.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I just feel fine.",
+"emotion": "Neutral"
+},
+{
+"sentence": "I just feel numb.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I just want to be loved.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I keep replaying it and feel ashamed.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I love you so much.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I miss you and feel lonely.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I need to stop feeling so stressed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I never expected this and I'm shocked.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I started to feel overwhelmed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I still feel anxious.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I still feel sad about it.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I still feel scared.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I was stunned by what happened.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I woke up feeling depressed.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I'm afraid something will go wrong.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I'm anxious about the results.",
+"emotion": "Fear / Anxiety"
+},
+{
+"sentence": "I'm ashamed to admit it.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I'm confident I'll handle it.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I'm exhausted and can't focus.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I'm grateful for your support.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "I'm happy and excited.",
+"emotion": "Joy"
+},
+{
+"sentence": "I'm nervous and overwhelmed.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I'm not feeling festive this year.",
+"emotion": "Sadness"
+},
+{
+"sentence": "I'm overwhelmed with responsibilities.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I'm proud of what I achieved.",
+"emotion": "Pride / Confidence"
+},
+{
+"sentence": "I'm shocked this happened.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "I'm so angry I can't think straight.",
+"emotion": "Anger"
+},
+{
+"sentence": "I'm so disgusted by what I saw.",
+"emotion": "Disgust"
+},
+{
+"sentence": "I'm so stressed about everything.",
+"emotion": "Stress / Overwhelm"
+},
+{
+"sentence": "I'm sorry and I feel guilty.",
+"emotion": "Shame / Guilt"
+},
+{
+"sentence": "I'm thankful and feel loved.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "This makes me feel hopeful.",
+"emotion": "Hope / Optimism"
+},
+{
+"sentence": "This news left me shocked.",
+"emotion": "Surprise / Shock"
+},
+{
+"sentence": "You make me feel safe.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "You make me feel so loved.",
+"emotion": "Love / Affection"
+},
+{
+"sentence": "yayy",
+"emotion": "Joy"
+},
+{
+"sentence": "so happy today",
+"emotion": "Joy"
+},
+{
+"sentence": "feeling awesome",
+"emotion": "Joy"
+},
+{
+"sentence": "this made my day",
+"emotion": "Joy"
+},
+{
+"sentence": "I'm excited!",
+"emotion": "Joy"
+}
+]
